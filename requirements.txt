@@ -65,7 +65,7 @@ eth-typing==2.1.0
 eth-utils==1.7.0
 eventlet==0.25.1
 fastcache==1.0.2
-Flask==0.12
+Flask==1.0
 Flask-Cors==3.0.2
 Flask-SocketIO==4.2.1
 floyd-cli==0.9.5
