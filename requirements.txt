@@ -63,7 +63,7 @@ eth-keys==0.2.4
 eth-rlp==0.1.2
 eth-typing==2.1.0
 eth-utils==1.7.0
-eventlet==0.25.1
+eventlet==0.31.0
 fastcache==1.0.2
 Flask==0.12
 Flask-Cors==3.0.2
